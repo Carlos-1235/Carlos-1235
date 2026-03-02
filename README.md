@@ -56,19 +56,6 @@
 <br>
 <hr>
 <br>
-<h1 align="center">GitHub Stats! 📊</h1>
-<br>
 
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Carlos-1235&show_icons=true&theme=tokyonight" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-1235&layout=compact&theme=tokyonight" />
-
-</p>
-
-<br>
-<hr>
-<br>
 <h1>Thank You! 🤵 </h1>
 <Br>
